@@ -105,11 +105,12 @@ FestaPick은 **축제 참여자**와 **축제 관리자(주최측)** 모두가 �
 
 ## 모니터링
 ### 🧩 ELK(ElasticSearch, Logstash, Kibana), Filebeat를 활용한 로그 모니터링
-<p>
-  <img src="https://github.com/user-attachments/assets/1f25bfb4-4091-4c3d-8d83-9023a36ba750" alt="등록 축제 관리" width="600" />
-</p>
+<img width="2926" height="1202" alt="image" src="https://github.com/user-attachments/assets/fc873a53-5af8-4f0f-a025-ec43984f9217" />
 
-- UUID 기반으로 어떤 REQUEST/RESPONSE에서 예외가 발생했는지 전문검색 확인 가능
+- 로그를 직접 서버 인스턴스에 접속해서 확인하는게 아닌 전문 검색을 통해서 로그를 확인할 수 있습니다.
+- 예외가 발생한 REQUEST/RESPONSE에 대해서는 UUID를 저장한 로그를 남겨 어떤 엔드포인트에서 어떤 예외가 발생했는지 확인할 수 있습니다.
+
+  
 
 
 ## 기술 스택
