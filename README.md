@@ -45,28 +45,36 @@ FestaPick은 **축제 참여자**와 **축제 관리자(주최측)** 모두가 �
 ### 👤 사용자 기능
 
 #### 성향 기반 축제 맞춤 추천  
-![KakaoTalk_Photo_2025-11-06-14-06-01](https://github.com/user-attachments/assets/36242224-b7eb-495c-8c09-ef2c9dbf77c9)
+<p>
+  <img src="https://github.com/user-attachments/assets/36242224-b7eb-495c-8c09-ef2c9dbf77c9" alt="성향 추천 1" width="320" />
+</p>
 
 - 지도에 있는 픽픽(PickPick) 이를 선택해 지역을 설정하고, 여행 MBTI를 입력하면 사용자의 성향에 맞는 축제를 추천받을 수 있습니다.  
 - 추천받은 축제 중 마음에 드는 축제를 클릭하면 상세 정보를 조회할 수 있습니다. 
 
 #### 좋아요 / 리뷰 작성  
-![KakaoTalk_Photo_2025-11-06-14-59-41](https://github.com/user-attachments/assets/08948c0b-01f2-46c9-a625-bf34e61ddccb)<br>
+<p>
+  <img src="https://github.com/user-attachments/assets/08948c0b-01f2-46c9-a625-bf34e61ddccb" alt="좋아요/리뷰" width="320" />
+</p><br/>
 
 - 마음에 드는 축제는 좋아요를 눌러 저장할 수 있습니다.  
 - 다녀온 축제에 대해서는 리뷰를 작성해 다른 사용자와 경험을 공유할 수 있습니다.  
 
 
 ####  실시간 소통 (채팅)  
-![KakaoTalk_Photo_2025-11-06-14-51-33](https://github.com/user-attachments/assets/84806e0d-bbd9-415b-8206-aa160b995829)<br>
-![KakaoTalk_Photo_2025-11-06-14-51-42](https://github.com/user-attachments/assets/1706acdc-b6fc-482c-9df0-563fde81d03a)
+<p>
+  <img src="https://github.com/user-attachments/assets/84806e0d-bbd9-415b-8206-aa160b995829" alt="채팅 1" width="320" />
+  <img src="https://github.com/user-attachments/assets/1706acdc-b6fc-482c-9df0-563fde81d03a" alt="채팅 2" width="320" />
+</p>
 - 각 축제별 채팅방에서 참여자들과 실시간으로 정보를 공유할 수 있습니다.  
 - 마이페이지에서는 참여 중인 채팅방의 알림 여부를 확인할 수 있습니다.  
 
 ### 🧩 관리자 기능
 
 #### 축제 관리자 등업 신청  
-![KakaoTalk_Photo_2025-11-06-15-11-22](https://github.com/user-attachments/assets/92c33993-3595-4701-a4ac-5774093dc4da)<br>
+<p>
+  <img src="https://github.com/user-attachments/assets/92c33993-3595-4701-a4ac-5774093dc4da" alt="관리자 등업 신청" width="320" />
+</p><br/>
 
  - 축제를 직접 관리하고 싶다면 관리자 등업을 신청할 수 있습니다.  
  - 신청 시 소속 정보와 관련 서류를 제출합니다.
@@ -74,20 +82,26 @@ FestaPick은 **축제 참여자**와 **축제 관리자(주최측)** 모두가 �
 
 
 #### 등록된 축제에 대한 관리자 신청  
-![KakaoTalk_Photo_2025-11-06-15-24-34](https://github.com/user-attachments/assets/f4d85b13-0e71-4d09-bfce-fbd2a0a5bcd5)<br>
+<p>
+  <img src="https://github.com/user-attachments/assets/f4d85b13-0e71-4d09-bfce-fbd2a0a5bcd5" alt="기존 축제 관리자 신청" width="320" />
+</p><br/>
 
 - 관광공사(TourAPI) 에 등록된 축제에 대해 관리자 권한을 신청할 수 있습니다.  
  - Admin 승인 후, 해당 축제에 대한 수정·삭제·공지사항 등록 권한을 획득합니다.
 
 
 #### 나의 축제 등록하기  
-![KakaoTalk_Photo_2025-11-06-15-45-13](https://github.com/user-attachments/assets/2e20b0f3-0989-4b2e-b5a2-444f1a8fd892)<br>
+<p>
+  <img src="https://github.com/user-attachments/assets/2e20b0f3-0989-4b2e-b5a2-444f1a8fd892" alt="나의 축제 등록" width="320" />
+</p><br/>
 
 - 축제 관리자는 새로운 축제를 등록할 수 있습니다.  
 - 등록된 축제는 Admin의 승인 후 일반 사용자에게 노출됩니다.  
 
 #### 등록 축제 관리  
-![KakaoTalk_Photo_2025-11-06-14-36-25](https://github.com/user-attachments/assets/b27bd4a4-3e6f-4822-af47-f3a5baa95baa)<br>
+<p>
+  <img src="https://github.com/user-attachments/assets/b27bd4a4-3e6f-4822-af47-f3a5baa95baa" alt="등록 축제 관리" width="320" />
+</p><br/>
 - 자신이 등록한 축제에 대해 공지사항을 등록할 수 있습니다.  
 - 축제 정보를 수정 및 삭제할 수 있습니다.  
 
