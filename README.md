@@ -198,31 +198,39 @@ FestaPick은 **축제 참여자**와 **축제 관리자(주최측)** 모두가 �
 
 ## 팀원 소개
 
-<table>
-  <thead>
-    <tr>
-      <th>이진원</th><th>이윤재</th><th>주연학</th><th>하석현</th><th>문수호</th><th>심영찬</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src="https://github.com/jinwon1234.png" width="150" height="150" alt="이진원"></td>
-      <td><img src="https://github.com/YUNJAEGOONER.png" width="150" height="150" alt="이윤재"></td>
-      <td><img src="https://github.com/jyhyt1567.png" width="150" height="150" alt="주연학"></td>
-      <td><img src="https://github.com/studyhard01.png" width="150" height="150" alt="하석현"></td>
-      <td><img src="https://github.com/dib3474.png" width="150" height="150" alt="문수호"></td>
-      <td><img src="https://github.com/skybluesharkk.png" width="150" height="150" alt="심영찬"></td>
-    </tr>
-    <tr>
-      <td>BE</td><td>BE</td><td>BE</td><td>AI</td><td>FE</td><td>FE</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/jinwon1234">GitHub</a></td>
-      <td><a href="https://github.com/YUNJAEGOONER">GitHub</a></td>
-      <td><a href="https://github.com/jyhyt1567">GitHub</a></td>
-      <td><a href="https://github.com/studyhard01">GitHub</a></td>
-      <td><a href="https://github.com/dib3474">GitHub</a></td>
-      <td><a href="https://github.com/skybluesharkk">GitHub</a></td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th style="text-align:center;">이진원</th>
+        <th style="text-align:center;">이윤재</th>
+        <th style="text-align:center;">주연학</th>
+        <th style="text-align:center;">하석현</th>
+        <th style="text-align:center;">문수호</th>
+        <th style="text-align:center;">심영찬</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center"><img src="https://github.com/jinwon1234.png" width="150" height="150" alt="이진원"></td>
+        <td align="center"><img src="https://github.com/YUNJAEGOONER.png" width="150" height="150" alt="이윤재"></td>
+        <td align="center"><img src="https://github.com/jyhyt1567.png" width="150" height="150" alt="주연학"></td>
+        <td align="center"><img src="https://github.com/studyhard01.png" width="150" height="150" alt="하석현"></td>
+        <td align="center"><img src="https://github.com/dib3474.png" width="150" height="150" alt="문수호"></td>
+        <td align="center"><img src="https://github.com/skybluesharkk.png" width="150" height="150" alt="심영찬"></td>
+      </tr>
+      <tr>
+        <td align="center">BE</td><td align="center">BE</td><td align="center">BE</td>
+        <td align="center">AI</td><td align="center">FE</td><td align="center">FE</td>
+      </tr>
+      <tr>
+        <td align="center"><a href="https://github.com/jinwon1234">GitHub</a></td>
+        <td align="center"><a href="https://github.com/YUNJAEGOONER">GitHub</a></td>
+        <td align="center"><a href="https://github.com/jyhyt1567">GitHub</a></td>
+        <td align="center"><a href="https://github.com/studyhard01">GitHub</a></td>
+        <td align="center"><a href="https://github.com/dib3474">GitHub</a></td>
+        <td align="center"><a href="https://github.com/skybluesharkk">GitHub</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
