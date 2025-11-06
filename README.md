@@ -47,7 +47,7 @@ FestaPick은 **축제 참여자**와 **축제 관리자(주최측)** 모두가 �
 #### 성향 기반 축제 맞춤 추천  
 <p>
   <img src="https://github.com/user-attachments/assets/36242224-b7eb-495c-8c09-ef2c9dbf77c9" alt="성향 추천 1" width="320" />
-</p>
+</p><br/>
 
 - 지도에 있는 픽픽(PickPick) 이를 선택해 지역을 설정하고, 여행 MBTI를 입력하면 사용자의 성향에 맞는 축제를 추천받을 수 있습니다.  
 - 추천받은 축제 중 마음에 드는 축제를 클릭하면 상세 정보를 조회할 수 있습니다. 
@@ -65,7 +65,8 @@ FestaPick은 **축제 참여자**와 **축제 관리자(주최측)** 모두가 �
 <p>
   <img src="https://github.com/user-attachments/assets/84806e0d-bbd9-415b-8206-aa160b995829" alt="채팅 1" width="320" />
   <img src="https://github.com/user-attachments/assets/1706acdc-b6fc-482c-9df0-563fde81d03a" alt="채팅 2" width="320" />
-</p>
+</p><br/>
+
 - 각 축제별 채팅방에서 참여자들과 실시간으로 정보를 공유할 수 있습니다.  
 - 마이페이지에서는 참여 중인 채팅방의 알림 여부를 확인할 수 있습니다.  
 
@@ -102,6 +103,7 @@ FestaPick은 **축제 참여자**와 **축제 관리자(주최측)** 모두가 �
 <p>
   <img src="https://github.com/user-attachments/assets/b27bd4a4-3e6f-4822-af47-f3a5baa95baa" alt="등록 축제 관리" width="320" />
 </p><br/>
+
 - 자신이 등록한 축제에 대해 공지사항을 등록할 수 있습니다.  
 - 축제 정보를 수정 및 삭제할 수 있습니다.  
 
