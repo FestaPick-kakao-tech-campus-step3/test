@@ -27,7 +27,7 @@
 </div>
 
 
-## 2) 소개
+## 소개
 FestaPick은 **축제 참여자**와 **축제 관리자(주최측)** 모두가 함께 쓰는 플랫폼입니다.  
 
 - 💬 축제별 채팅방을 통해 참여자 간 정보 공유
@@ -40,7 +40,7 @@ FestaPick은 **축제 참여자**와 **축제 관리자(주최측)** 모두가 �
 
 ---
 
-## 3) 핵심 기능
+## 핵심 기능
 
 ### 👤 사용자 기능
 
@@ -80,7 +80,7 @@ FestaPick은 **축제 참여자**와 **축제 관리자(주최측)** 모두가 �
 - 축제 정보를 수정 및 삭제할 수 있습니다.  
 
 ---
-### 기술 스택
+## 기술 스택
 
 #### 🧩 Backend
 <p align="center">
@@ -123,14 +123,32 @@ FestaPick은 **축제 참여자**와 **축제 관리자(주최측)** 모두가 �
 
 ---
 
-## 4) 시스템 아키텍쳐
+## 시스템 아키텍쳐
 
 <img width="2614" height="1470" alt="Group 82" src="https://github.com/user-attachments/assets/87624179-0cde-4bed-b789-e3fd031770c8" />
 
 
-## 5) ERD
+## ERD
 
 <img width="1000" height="574" alt="image" src="https://github.com/user-attachments/assets/813cbf1f-b166-46f4-9a8f-b29c13d6bc1a" />
+
+<div align="center">
+
+| **엔티티(Entity)** | **설명(Description)** |
+|:-------------------:|:---------------------:|
+| **ChatMessage** | 사용자가 보낸 채팅 메시지를 저장합니다. |
+| **ChatParticipant** | 사용자가 어느 채팅방에 들어갔는지, 채팅방의 채팅을 어디까지 읽었는지 저장합니다. |
+| **ChatRoom** | 각 축제별 채팅방 정보를 저장합니다. |
+| **Festival** | 축제에 대한 상세 정보를 저장합니다. |
+| **FestivalNotice** | 축제 관리자(Festival Manager)가 작성한 공지사항을 저장합니다. |
+| **FestivalPermission** | 축제(TourAPI를 통해 등록된 축제)에 대한 관리 신청서를 저장합니다. |
+| **FMPermission** | 축제 관리자(Festival Manager) 신청서를 저장합니다. |
+| **RecommendationHistory** | 사용자가 가장 최근에 받았던 AI 추천 내역을 저장합니다. |
+| **Review** | 사용자가 등록한 축제의 리뷰를 저장합니다. |
+| **users** | 사용자 정보를 저장합니다. |
+| **Wish** | 사용자의 축제 좋아요 기록을 저장합니다. |
+
+</div>
 
 
 ## 5) 팀원 소개
