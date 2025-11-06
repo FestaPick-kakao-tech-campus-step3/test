@@ -22,10 +22,15 @@
     />
   </a>
 
-  <p><b>FestaPick 가이드북</b></p>
+  <p>
+    <b>
+      <a href="https://www.notion.so/FestaPick-2a33ff5fbfc78001b4f0d3f4a33f87a0?source=copy_link" target="_blank">
+        FestaPick 가이드북
+      </a>
+    </b>
+  </p>
 
 </div>
-
 
 ## 소개
 FestaPick은 **축제 참여자**와 **축제 관리자(주최측)** 모두가 함께 쓰는 플랫폼입니다.  
