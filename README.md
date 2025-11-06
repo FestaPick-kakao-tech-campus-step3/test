@@ -77,7 +77,7 @@ FestaPick은 **축제 참여자**와 **축제 관리자(주최측)** 모두가 �
 - 신청 시 소속 정보와 관련 서류를 제출합니다.  
 - Admin 승인 후 등업 여부가 결정됩니다.
 
-#### 🏷️🛂 등록된 축제에 대한 관리자 신청  
+#### 🛂 등록된 축제에 대한 관리자 신청  
 <p>
   <img src="https://github.com/user-attachments/assets/f4d85b13-0e71-4d09-bfce-fbd2a0a5bcd5" alt="기존 축제 관리자 신청" width="200" />
 </p>
