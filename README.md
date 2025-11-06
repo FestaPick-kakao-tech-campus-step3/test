@@ -41,7 +41,7 @@ FestaPick은 **축제 참여자**와 **축제 관리자(주최측)** 모두가 �
 
 ### 👤 사용자 기능
 
-#### 🧭🎯 성향 기반 축제 맞춤 추천  
+#### 🎯 성향 기반 축제 맞춤 추천  
 <p>
   <img src="https://github.com/user-attachments/assets/36242224-b7eb-495c-8c09-ef2c9dbf77c9" alt="성향 추천 1" width="200" />
 </p>
@@ -49,7 +49,7 @@ FestaPick은 **축제 참여자**와 **축제 관리자(주최측)** 모두가 �
 - 지도에 있는 픽픽(PickPick)을 선택해 지역을 설정하고, 여행 MBTI를 입력하면 사용자의 성향에 맞는 축제를 추천받을 수 있습니다.  
 - 추천받은 축제 중 마음에 드는 축제를 클릭하면 상세 정보를 조회할 수 있습니다.  
 
-#### ❤️⭐ 좋아요 / 리뷰 작성  
+#### ❤️ 좋아요 / 리뷰 작성  
 <p>
   <img src="https://github.com/user-attachments/assets/08948c0b-01f2-46c9-a625-bf34e61ddccb" alt="좋아요/리뷰" width="200" />
 </p>
@@ -57,7 +57,7 @@ FestaPick은 **축제 참여자**와 **축제 관리자(주최측)** 모두가 �
 - 마음에 드는 축제는 좋아요를 눌러 저장할 수 있습니다.  
 - 다녀온 축제에 대해서는 리뷰를 작성해 다른 사용자와 경험을 공유할 수 있습니다.
   
-#### 💬🔔 채팅 / 채팅 알람 기능  
+#### 💬 채팅 / 채팅 알람 기능  
 <p>
   <img src="https://github.com/user-attachments/assets/84806e0d-bbd9-415b-8206-aa160b995829" alt="채팅 1" width="180" />
   <img src="https://github.com/user-attachments/assets/1706acdc-b6fc-482c-9df0-563fde81d03a" alt="채팅 2" width="180" />
@@ -68,7 +68,7 @@ FestaPick은 **축제 참여자**와 **축제 관리자(주최측)** 모두가 �
 
 ### 🧩 관리자 기능
 
-#### 🧑‍💼⬆️ 축제 관리자 등업 신청  
+#### 🧑‍💼 축제 관리자 등업 신청  
 <p>
   <img src="https://github.com/user-attachments/assets/92c33993-3595-4701-a4ac-5774093dc4da" alt="관리자 등업 신청" width="200" />
 </p>
@@ -85,7 +85,7 @@ FestaPick은 **축제 참여자**와 **축제 관리자(주최측)** 모두가 �
 - 관광공사(TourAPI)에 등록된 축제에 대해 관리자 권한을 신청할 수 있습니다.  
 - Admin 승인 후, 해당 축제에 대한 수정·삭제·공지사항 등록 권한을 획득합니다.  
 
-#### 📝➕ 나의 축제 등록하기  
+#### 📝 나의 축제 등록하기  
 <p>
   <img src="https://github.com/user-attachments/assets/2e20b0f3-0989-4b2e-b5a2-444f1a8fd892" alt="나의 축제 등록" width="200" />
 </p>
@@ -93,7 +93,7 @@ FestaPick은 **축제 참여자**와 **축제 관리자(주최측)** 모두가 �
 - 축제 관리자는 새로운 축제를 등록할 수 있습니다.  
 - 등록된 축제는 Admin의 승인 후 일반 사용자에게 노출됩니다.  
 
-#### 🗂️🛠️ 등록 축제 관리  
+#### 🗂️ 등록 축제 관리  
 <p>
   <img src="https://github.com/user-attachments/assets/b27bd4a4-3e6f-4822-af47-f3a5baa95baa" alt="등록 축제 관리" width="200" />
 </p>
