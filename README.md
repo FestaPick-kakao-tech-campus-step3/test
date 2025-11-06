@@ -102,6 +102,14 @@ FestaPick은 **축제 참여자**와 **축제 관리자(주최측)** 모두가 �
 - 축제 정보를 수정 및 삭제할 수 있습니다.  
 
 ---
+
+## 모니터링
+### 🧩 ELK(ElasticSearch, Logstash, Kibana), Filebeat를 활용한 로그 모니터링
+![화면 기록 2025-11-06 오후 10 56 04](https://github.com/user-attachments/assets/1f25bfb4-4091-4c3d-8d83-9023a36ba750)
+
+- UUID 기반으로 어떤 REQUEST/RESPONSE에서 예외가 발생했는지 전문검색 확인 가능
+
+
 ## 기술 스택
 
 #### 🧩 Backend
