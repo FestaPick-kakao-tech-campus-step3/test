@@ -46,7 +46,6 @@ FestaPick은 **축제 참여자**와 **축제 관리자(주최측)** 모두가 �
 
 #### 성향 기반 축제 맞춤 추천  
 ![KakaoTalk_Photo_2025-11-06-14-06-01](https://github.com/user-attachments/assets/36242224-b7eb-495c-8c09-ef2c9dbf77c9)
-![KakaoTalk_Photo_2025-11-06-14-51-42](https://github.com/user-attachments/assets/1706acdc-b6fc-482c-9df0-563fde81d03a)
 
 - 지도에 있는 픽픽(PickPick) 이를 선택해 지역을 설정하고, 여행 MBTI를 입력하면 사용자의 성향에 맞는 축제를 추천받을 수 있습니다.  
 - 추천받은 축제 중 마음에 드는 축제를 클릭하면 상세 정보를 조회할 수 있습니다. 
@@ -60,7 +59,7 @@ FestaPick은 **축제 참여자**와 **축제 관리자(주최측)** 모두가 �
 
 ####  실시간 소통 (채팅)  
 ![KakaoTalk_Photo_2025-11-06-14-51-33](https://github.com/user-attachments/assets/84806e0d-bbd9-415b-8206-aa160b995829)<br>
-
+![KakaoTalk_Photo_2025-11-06-14-51-42](https://github.com/user-attachments/assets/1706acdc-b6fc-482c-9df0-563fde81d03a)
 - 각 축제별 채팅방에서 참여자들과 실시간으로 정보를 공유할 수 있습니다.  
 - 마이페이지에서는 참여 중인 채팅방의 알림 여부를 확인할 수 있습니다.  
 
