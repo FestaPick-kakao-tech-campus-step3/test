@@ -24,7 +24,7 @@
 
   <p>
     <b>
-      <a href="https://www.notion.so/FestaPick-2a33ff5fbfc78001b4f0d3f4a33f87a0?source=copy_link" target="_blank">
+      <a href="https://www.notion.so/FestaPick-2a33ff5fbfc78001b4f0d3f4a33f87a0" target="_blank">
         FestaPick 가이드북
       </a>
     </b>
